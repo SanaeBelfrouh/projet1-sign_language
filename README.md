@@ -19,3 +19,5 @@ traduction du dialecte marocaine en langue des signes marocaine MSL
 ![17](https://github.com/SanaeBelfrouh/projet1-sign_language/assets/116807307/e386ba86-919a-4147-ade3-379f5e6df9d5)
 ![18](https://github.com/SanaeBelfrouh/projet1-sign_language/assets/116807307/e1ca858f-0230-48d3-9139-a628999fe2e7)
 ![19](https://github.com/SanaeBelfrouh/projet1-sign_language/assets/116807307/f6fe390e-078f-4d77-8b2d-3f7a848d97f9)
+## DEMO
+[demo.webm](https://github.com/SanaeBelfrouh/projet1-sign_language/assets/116807307/9e298fb5-3739-4b4a-89a8-abf306fae182)
